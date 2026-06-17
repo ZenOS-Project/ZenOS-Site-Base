@@ -1,4 +1,4 @@
-# ZenOS Website Template
+# ZenOS Website Base
 
 A sleek, minimal, and modern website template designed specifically for Custom ROMs and operating system projects. Featuring a clean monochrome aesthetic inspired by premium tech landing pages, fully responsive grids, real-time device search, and dynamic brand filtering.
 
