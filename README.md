@@ -2,7 +2,7 @@
 
 A sleek, minimal, and modern website template designed specifically for Custom ROMs and operating system projects. Featuring a clean monochrome aesthetic inspired by premium tech landing pages, fully responsive grids, real-time device search, and dynamic brand filtering.
 
-## 📱 Features
+## Features
 
 * **Premium UI/UX:** Clean, dark-mode design using the elegant 'Product Sans' typography.
 * **Smart Device Downloads:** Built-in JavaScript search bar and interactive brand filter buttons (All, Google, Samsung, Xiaomi, etc.).
@@ -11,7 +11,7 @@ A sleek, minimal, and modern website template designed specifically for Custom R
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 The repository contains three main clean static pages:
 * `index.html` – The main landing page with hero headers, screenshots showcase, features grid, team profiles, and FAQs.
